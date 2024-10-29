@@ -1,0 +1,404 @@
+Development Tools
+Android Jetpack core
+Android Architecture Components
+Android Jetpack Widgets
+Android Jetpack VersionedParcelable
+Android Jetpack Annotations
+Firebase
+Kotlin
+Android Jetpack Media
+AndroidX Activity
+Android WorkManager
+Google Cloud Messaging (GCM)
+Android Transition Support Library
+Android Jetpack AppCompat
+Google gson
+Chromium
+Android Activity Saved State
+AndroidX Widget ViewPager2
+Glide
+AndroidX Loader
+Android Support Library collections
+Lottie
+AndroidX Legacy: Support Library core UI
+AndroidX Legacy: Support Library core utils
+Android Support VectorDrawable
+AndroidX Local Broadcast Manager
+AndroidX Cursor Adapter
+Android Support Library Print
+Okio
+Android Support Library Document File
+Android Support Library Async Layout Inflater
+AndroidX Multi-Dex Library
+JetBrains Annotations
+Google Protocol Buffers
+AndroidX ExifInterface
+Google ZXing
+Google Guava
+Google Maps SDK
+IntelliJ IDEA
+ReactiveX
+Dagger
+Picasso
+Grpc
+Retrofit
+Volley
+greenrobot EventBus
+Google Analytics
+Yoga
+Unity 3D
+FMOD Ex Programmers API
+The Checker Framework
+Litho
+Simple Logging Facade for Java (SLF4J)
+BoltsFramework
+TensorFlow Lite
+FasterXML Jackson
+The Legion of the Bouncy Castle
+AndroidSVG
+Apache Commons Codec
+Moshi
+Reactive Streams
+Joda
+MPAndroidChart
+Apache Commons I/O
+JUnit
+ReLinker
+jsoup: Java HTML Parser
+React Native
+YouTube Android Player API
+Google Play Licensing Service
+Subsampling scale image view
+Butter Knife
+Android GIF Drawable
+Flutter
+Visual Studio App Center
+HttpClient for Android
+Apache Http Auth
+ShortcutBadger
+Apache Commons Logging
+CircleImageView
+okHttp
+Timber
+Amazon AWS SDK for Android
+uCrop
+Spongy Castle - Bouncy Castle for Android
+Sentry
+Yandex Metrica
+Cocos2D-X
+RoundedImageView
+Moat Analytics
+Apache HttpMime API
+OpenCensus
+Google Protocol Buffers Nano
+Flurry Analytics
+Branch
+NineOldAndroids
+GameAnalytics
+greenDAO
+RootBeer
+SignPost OAuth
+Universal Image Loader
+Material Dialogs
+MaterialProgressBar
+Crashlytics
+Android Support Library v13
+OneSignal
+Android Asynchronous Http Client
+Android Image Cropper
+Disk LRU Cache
+Amplitude
+JSON.simple
+Simple XML Serialization
+CleverTap
+ViewPager indicator
+PyTorch
+Mapbox
+PhotoView
+Circle Indicator
+fabric
+MessagePack
+Mozilla Rhino
+Realm
+Comscore Analytics
+Jackson JSON Processor
+ImageViewZoom
+EasyPermissions
+Android YouTube Player
+Dropbox API
+mixpanel
+Android-Job
+AVLoadingIndicatorView
+JAudiotagger
+Google GData client
+Stripe
+LeakCanary
+dnsjava
+HockeyApp
+XML Pull Parsing
+PhoneGap / Apache Cordova
+Apache Commons Lang
+Google Protocol Buffers Micro
+Apache James Mime4j
+Alipay
+OrmLite
+AndroidSlidingUpPanel
+Konfetti
+Google Play In-app Billing
+Umeng
+JavaMail
+juniversalchardet
+TagSoup
+CameraView
+RevenueCat
+Prime31 Unity Plugins
+libgdx
+card.io
+Logger
+Android View Animations
+Braze
+AutoFitTextView
+New Relic Mobile
+ThreatMetrix SDK
+GravitySnapHelper
+AndroidAsync
+Kryo
+Fetch
+DragSortListView
+Matisse
+Adobe AIR
+StickyListHeaders
+Material DateTime Picker
+LoganSquare
+Urban Airship
+Simple DirectMedia Layer
+Apache Thrift
+Paypal SDK
+Naver
+Segment
+ACRA
+SmoothProgressBar
+Android Pull to refresh
+PermissionsDispatcher
+Leanplum
+Fast Android Networking
+Android In-App Billing Library
+Android Instant Apps
+Intercom
+SlidingMenu
+JDOM
+Localytics
+Fotoapparat
+FastAdapter
+prettytime
+Lunar Unity Mobile Console
+Parse
+SendBird
+Crittercism
+Android Color Picker
+Ionic Framework
+Java Native Lua
+Vitamio
+Speex
+kXML
+jchardet
+CommonsWare Android Components (CWAC)
+PhoneGap Social Sharing
+Cropper
+Corona SDK
+mColorPicker
+RecyclerView Animators
+Entagged
+SwipeRevealLayout
+Android Native Plugin for Unity
+Optimizely
+DBFlow
+AboutLibraries
+Open UDID
+PubNub
+Conductor
+ZBar bar code reader
+htmlcleaner
+OpenStreetMap tools for Android
+svg-android
+Xamarin
+Gamemaker: Studio
+Scribe OAuth
+Android Query
+Spring Framework
+AndEngine
+MaterialDrawer
+JCraft
+Pushwoosh
+Google Guice
+Android Beacon Library
+ActiveAndroid
+dom4j
+Sdkbox
+AChartEngine
+Mitek MiSnap
+Samsung In-App Purchase
+OpenIAB
+kSOAP 2
+Braintree Client Encryption Library
+SugarORM
+kObjects Utilities
+Moga
+NewQuickAction/NewQuickAction3D
+javamail-android
+Box Android API
+LicensesDialog
+Countly
+Android Inline YouTube View
+Basic HTTP Client
+android-wheel
+Marmalade SDK
+ViewPagerExtensions
+Amazon in-app purchasing
+android-youtubeExtractor
+jMonkeyEngine
+Smart App Rate
+Soomla
+Timeline View
+Spark
+Apptimize
+The Java CIFS Client Library (JCIFS)
+AndroidPlot
+android-multitouch-controller
+Tablelayout
+Krux
+Splunk MINT
+Baidu Geolocation
+Bouncer
+HttpClient for Android
+KPermissions
+NeatPlug Unity Plugins
+RateThisApp
+Material App Rating
+TicketView
+Milkman Games Extensions
+EasyDeviceInfo
+DevsmartLib
+Andromo
+Samsung Pen SDK
+RoboSpice
+EasyPrefs
+bitcoinj
+GeckoView
+Appsee
+Cordova Google Analytics Plugin
+Android ViewBadger
+Basic4android
+Android Five Stars Library
+Novell SASL
+GNU Kawa
+Aviary
+Godot
+Crouton
+Foursquare
+Jaxen
+Adbrix
+Box OneCloud
+Material File Picker
+SegmentedControl
+Zoom Android SDK
+android-remote-stacktrace
+epublib
+AndroidRate
+Cocos2D
+Android Smart Image View
+Quantcast
+Nexage SourceKit-MRAID For Android
+Cuebiq
+Actionbar Sherlock
+Android Bootstrap
+Appirater
+Locale
+Unity Accessibility Plugin
+GLWallpaperService
+Framework7
+VuDroid
+Apsalar
+Pix Image Picker
+UltimateRecyclerView
+MenuDrawer
+NativeScript
+Android Page Curl
+Appcelerator (Titanium Mobile)
+RoboGuice
+Android CalendarView
+SeattleClouds
+AwesomeValidation
+Android youtube player
+Nuance
+Crosswalk Project
+IBM Mobile Push Notification
+Droid-Fu
+aacdecoder-android
+RecyclerViewDivider
+TalkingData
+Base64 encoder/decoder
+LazyList
+Kin
+AndroidAnnotations
+Apportable
+Fiksu Mobile App Marketing
+Bugsense
+Enhance
+OnBarcode
+GameSalad
+Android BitmapCache
+Adobe App Measurement for Android
+AppYet
+GreenDroid
+NYBus
+mobincube
+Sensey
+Stellar
+Authorize.net
+Project Kenai - jbosh
+Applause
+Groundtruth
+libs-for-android
+OpenUDID
+RobotMedia Billing
+BubbleTabBar
+Marketo Mobile
+MongoDB Java Driver
+calcdialoglib
+oneAudience
+Webtrends mobile
+Android zooming view
+android-actionbar
+microlog4android
+Rocket Chat
+Jettison JSON StAX Implementation
+Fortumo
+android-pulltorefresh
+Plot Projects
+mapviewballoons
+Gene-rate
+bitlyj
+APPMK
+icondialoglib
+recurpickerlib
+DataDroid
+AppsGeyser
+MusicWave
+QuickAppNinja
+Ignition
+Zong
+Alternative dropbox client
+PDFTron
+VerticalCalendar
+Airbrake Notifier for Android
+Oblique
+Android Coverflow
+Rating Request
+Zubhium
+SortableTableView
+HoloEverywhere
+BiznessApps
+SocketScan ScanAPI
+DroidUX
+SafeGraph
