@@ -1,0 +1,25 @@
+Query for RQ1:
+
+
+SELECT Id, Title, Body, Tags FROM Posts
+WHERE (LOWER(Title) LIKE '%privacy%' OR LOWER(Title) LIKE '%log%' OR LOWER(Title) LIKE '%sensitive information%' OR LOWER(Title) LIKE '%personal data%')
+AND (LOWER(Body) LIKE '%privacy%' OR LOWER(Body) LIKE '%log%' OR LOWER(Body) LIKE '%sensitive information%' OR LOWER(Body) LIKE '%personal data%')
+AND (LOWER(Title) NOT LIKE '%login%' AND LOWER(Title) NOT LIKE '%log in%' AND LOWER(Title) NOT LIKE '%logs in%' 
+AND LOWER(Title) NOT LIKE '%log.(' AND LOWER(Title) NOT LIKE '%dialog%' AND LOWER(Title) NOT LIKE '%logo%' 
+AND LOWER(Title) NOT LIKE '%log out%' AND LOWER(Title) NOT LIKE '%logout%' AND LOWER(Title) NOT LIKE '%logs out%'
+AND LOWER(Title) NOT LIKE '%logic%' AND LOWER(Title) NOT LIKE '%blog%' AND LOWER(Title) NOT LIKE '%apologize%'
+AND LOWER(Title) NOT LIKE '%technology%'
+AND LOWER(Title) NOT LIKE '%logn%'
+AND LOWER(Title) NOT LIKE '%logarithm%'
+AND LOWER(Title) NOT LIKE '%ontology%')
+AND (LOWER(Body) NOT LIKE '%login%' AND LOWER(Body) NOT LIKE '%log in%' AND LOWER(Body) NOT LIKE '%logs in%'
+AND LOWER(Body) NOT LIKE '%log.(' AND LOWER(Body) NOT LIKE '%dialog%'
+AND LOWER(Body) NOT LIKE '%logo%' 
+AND LOWER(Body) NOT LIKE '%log out%' AND LOWER(Body) NOT LIKE '%logout%' AND LOWER(Body) NOT LIKE '%logs out%'
+AND LOWER(Body) NOT LIKE '%logic%' AND LOWER(Body) NOT LIKE '%blog%' 
+AND LOWER(Body) NOT LIKE '%apologize%' AND LOWER(Body) NOT LIKE '%technology%'
+AND LOWER(Body) NOT LIKE '%logarithm%'
+AND LOWER(Body) NOT LIKE '%logn%'
+AND LOWER(Body) NOT LIKE '%ontology%');
+
+
