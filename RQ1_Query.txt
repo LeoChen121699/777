@@ -1,0 +1,17 @@
+Query for RQ1:
+
+SELECT Id, Title, Body, Tags FROM Posts
+WHERE (Title LIKE '%privacy%' OR Title LIKE '%log%' OR Title LIKE '%sensitive information%')
+AND (Body LIKE '%privacy%' OR Body LIKE '%log%' OR Body LIKE '%sensitive information%')
+AND (Title NOT LIKE '%login%' AND Title NOT LIKE '%log in%' AND Title NOT LIKE '%logs in%' 
+AND Title NOT LIKE '%log.(%' AND Title NOT LIKE '%dialog%' AND Title NOT LIKE '%logo%' 
+AND Title NOT LIKE '%log out%' AND Title NOT LIKE '%logout%' AND Title NOT LIKE '%logs out%'
+AND Title NOT LIKE '%logic%' AND Title NOT LIKE '%blog%' AND Title NOT LIKE '%apologize%'
+AND Title NOT LIKE '%technology%')
+AND (Body NOT LIKE '%login%' AND Body NOT LIKE '%log in%' AND Body NOT LIKE '%logs in%'
+AND Body NOT LIKE '%log.(%' AND Body NOT LIKE '%dialog%'
+AND Body NOT LIKE '%logo%' 
+AND Body NOT LIKE '%log out%' AND Body NOT LIKE '%logout%' AND Body NOT LIKE '%logs out%'
+AND Body NOT LIKE '%logic%' AND Body NOT LIKE '%blog%' AND Body NOT LIKE '%logout%' 
+AND Body NOT LIKE '%apologize%' AND Body NOT LIKE '% technology%'
+AND Body NOT LIKE '%ontology%')
